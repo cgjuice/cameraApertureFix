@@ -3,8 +3,8 @@
 #
 # This script is provided freely and generously.
 # You can use, study, modify, and share it.
-# It's licensed under the MIT License – see LICENSE.txt (in download)
-# or visit https://opensource.org/licenses/MIT for the full terms.
+# It's licensed under the MIT License
+# visit https://opensource.org/licenses/MIT for the full terms.
 
 import maya.cmds as cmds
 import traceback
